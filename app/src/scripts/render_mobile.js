@@ -4,7 +4,7 @@ import { html, render } from 'https://cdn.jsdelivr.net/npm/lit-html@3.3.2/+esm';
 let allMobiles = [];
 
 async function loadMobiles() {
-    const response = await fetch("/app/assets/mobiles.json");
+    const response = await fetch("app/assets/mobiles.json");
     const data = await response.json();
     return data.mobiles;
 }
