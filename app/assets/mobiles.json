@@ -1,0 +1,95 @@
+{
+    "mobiles": [
+        {
+            "company": "OPPO",
+            "model": "Oppo F27pro+ 5g",
+            "rating": "5",
+            "price": "₹28999",
+            "image": "/app/mobile_images/oppo7.webp"
+        },
+        {
+            "company": "VIVO",
+            "model": "Vivo v50 5g",
+            "rating": "4",
+            "price": "₹18999",
+            "image": "/app/mobile_images/vivov50.webp"
+        },
+        {
+            "company": "iQOO",
+            "model": "iQOO Z9 S Pro",
+            "rating": "3",
+            "price": "₹21999",
+            "image": "/app/mobile_images/iQQQ.webp"
+        },
+        {
+            "company": "GOOGLE PIXEL",
+            "model": "Google Pixel 6",
+            "rating": "5",
+            "price": "₹65999",
+            "image": "/app/mobile_images/googlepixel.webp"
+        },
+        {
+            "company": "MOTOROLA",
+            "model": "Motorola Edge30 fusion",
+            "rating": "5",
+            "price": "₹25999",
+            "image": "/app/mobile_images/motorola50.webp"
+        },
+        {
+            "company": "SAMSUNG",
+            "model": "Samsung S23 ultra",
+            "rating": "5",
+            "price": "₹45999",
+            "image": "/app/mobile_images/samsungs23.webp"
+        },
+        {
+            "company": "REALME",
+            "model": "Realme Narzo Pro",
+            "rating": "5",
+            "price": "₹28999",
+            "image": "/app/mobile_images/realmee.webp"
+        },
+        {
+            "company": "IPHONE",
+            "model": "Apple iPhone Air 256 GB",
+            "rating": "5",
+            "price": "₹70999",
+            "image": "/app/mobile_images/iphoneee.webp"
+        },
+        {
+            "company": "INFINIX",
+            "model": "infinix GT20 Pro",
+            "rating": "5",
+            "price": "₹20999",
+            "image": "/app/mobile_images/infinixgt.webp"
+        },
+        {
+            "company": "SONY",
+            "model": "Sony Xperia Pro",
+            "rating": "5",
+            "price": "₹78999",
+            "image": "/app/mobile_images/sony.webp"
+        },
+        {
+            "company": "POCO",
+            "model": "Poco X5 Pro",
+            "rating": "2.4",
+            "price": "₹22999",
+            "image": "/app/mobile_images/poco.webp"
+        },
+        {
+            "company": "HONOR",
+            "model": "Honor 90 Pro",
+            "rating": "2.3",
+            "price": "₹27999",
+            "image": "/app/mobile_images/honor.webp"
+        },
+        {
+            "company": "ONEPLUS",
+            "model": "ONE +",
+            "rating": "3.3",
+            "price": "₹24999",
+            "image": "/app/mobile_images/oneplus.webp"
+        }
+    ]
+}

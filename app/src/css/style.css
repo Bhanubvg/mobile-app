@@ -1,0 +1,38 @@
+.mobile-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 10px;
+    padding: 10px;
+    justify-items: center;
+}
+
+div.section-1 {
+    color: black;
+    background-color: rgba(15, 234, 249, 0.932);
+    padding: 7px;
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.section-1 input {
+    width: 400px;
+    /* increase width */
+    height: 30px;
+    /* increase height */
+    font-size: 20px;
+    /* text size inside */
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.section-1 button {
+    height: 40px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.body {
+    background-color: rgb(122, 3, 3);
+}
